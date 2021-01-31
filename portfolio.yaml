@@ -1,0 +1,92 @@
+items:
+- text: Construction Logistics App Ecosystem
+  from: 12.2018
+  to: 12.2020
+  images:
+  - text: ~
+    url: 'kamioni.png'
+  links:
+  - text: Product website
+    url: 'https://kamioni.de/'
+  items:
+  - text: Constructed an entire application ecosystem connecting logistics dispatchers, truck drivers and construction sites and digitize processes.
+  - text: Cooperated with an agile-managed team of 10 people.
+  - text: Developed, maintained and tested frontends of all applications keeping them in sync with product design specification.
+  - text: Helped implementing  server-side business logic and resolving related issues.
+  - text: Prototyped POCs to test and showcase new ideas.
+  - text: Leveraged strict code conventions and structure to keep a rapidly growing code base maintainable and extensible.
+  stack: [ TypeScript, SCSS, Vue, Storybook, Jest, Cypress, Firebase, Ruby on Rails, PostgreSQL, Redis, Python, Asana, Youneedawiki, Gitlab wiki ]
+- text: Room Rental Web Platform
+  from: '10.2020'
+  to: ongoing
+  images:
+  - text: ~
+    url: safespace.png
+  items:
+  - text: Develop a room rental platform providing LGBTQ+ people facing challenges in finding accomodation due to their sexual identity with safe spaces from friendly host.
+  - text: Collaborate with a remote team of 7 people.
+  links
+   - text: ~
+     url: https://github.com/SafeSpace-Berlin/SafeSpace
+  stack: [ JavaScript, React, Express, MongoDB, AWS Elastic Beanstalk, Trello ]
+- text: Audio Copyright Management on Blockchain
+  from: '04.2020'
+  to: '07.2020'
+  images:
+  - text: ~
+    url: blockchain.png
+  items:
+  - text: Developed a blockchain based app for copyright management of audio files together in a team of 4 people.
+  - text: Implemented copyright transfer functionality in form of sale, temporary priviliges and an auction.
+  - text: Deployed the blockchain-based backend on an Ethereum test network.
+  links:
+    - text: ~
+      url: https://github.com/twardzikf/audio-copyright-on-ethereum
+  stack: [ JavaScript, Vue, Express, web3.js, Ganache, Truffle, Solidity, AWS Elastic Beanstalk, Trello, Gitlab wiki ]
+- text: API Integration Solution for ERP Systems
+  from: '10.2019'
+  to: '03.2020'
+  images:
+  - text: ~
+    url: api_integration.jpg
+  items:
+  - text: Built a microservice-based API integration solution for Statistance GmbH with the aim of connecting different, often legacy ERP systems into the Statistance ecosystem.
+  - text: Worked in a Scrum-managed team of 6 in close cooperation with Statistance team.
+  - text: Carried out a thorough research of existing domain models to be unified, possible target architectures and technology stacks in order to tailor the solution for specific conditions of current customers.
+  - text: Introduced centralized config management to ensure ease of adapting to new ERP systems.
+  - text: Implemented batch job functionality and a web UI to enable easier control of retrieving and feeding back the data into the ERP systems.
+  links:
+    - text: ~
+      url: https://www.statistance.de/solutions/igi/
+  stack: [ Java, Spring, JavaScript, Vue,MS SQL Server, MongoDB, Sage, Microsoft Dynamics NAV, Docker, Consul, Trello, Latex ]
+- text: Distributed Video Streaming QoS Monitoring
+  from: '11.2020'
+  to: ongoing
+  images:
+  - text: ~
+    url: stream_monitoring.png
+  items:
+  - text: Build a distributed, scalable metrics collection and visualization solution to monitor quality of video streaming service and to support decision making.
+  - text Utilize DASH.js for adaptive bitrate streaming and Common Media Client Data for metrics collection
+  - text: Design the data model and dasboard UI
+  - text: Deploy the solution on a Kubernetes cluster
+  links: 
+  - text: ~
+    url: ~
+  stack: [ Java, Spring, Dash.js, ElasticSearch, Grafana, Docker, Kubernetes
+- text: Non-profit Vet Project Websl: ite
+  images:
+  - text: ~
+    url: piesbezstrachu.png
+  from: '12.2020'
+  to: ongoing
+  items:
+  - Launch and maintain the website of a non-profit, educational initiative to raise awareness and understanding of dogs psychological disorders.
+  - Provide domain, hosting and wordpress setup.
+  - Customize the theme to fit frequently changing requirements.
+  - Configure SEO and Google Analytics.
+  - Supervise the website and troubleshoot any issues.
+  links:
+    - text: ~
+      url: ~
+  stack: [ Wordpress, JavaScript, CSS, PHP, Apache ]
