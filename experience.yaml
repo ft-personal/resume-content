@@ -1,0 +1,30 @@
+items:
+- text: Kamioni GmbH
+  from: '12.2018'
+  to: '12.20200'
+  images:
+  - text: ~
+    url: kamioni_logo.jpg
+  items:
+  - text: I joined Kamioni at the very beginning of product development. In two years full of frequent requirements changes and bold experiments with technology stack and software architecture, together with a development team of 5 people I have developed an entire application ecosystem for digitizing the construction logistics industry. By now, the solution is already being used by thousands of trucks across multiple logistics companies and construction sites.
+  - text: My main two responsibilities were to develop, maintain and test a constantly and rapidly growing, ecosystem-wide UI Component library as well as to implement core business logic on both front- and backend.
+  - text: I also actively took part in use-case analysis and feature shaping. Both processes were part of our agile project management, which started as a simplified Scrum approach and through time, assisted by research, discussions and frequent feedback in the team, eventually led us to a successful adoption of the Shape Up methodology.
+  - text: During my work at Kamioni, I worked primarily with: TypeScript, Vue, SCSS, Jest, Storybook,  Cypress, Firebase, Ruby on Rails, PostgreSQL and Docker.
+- text: TU Berlin
+  from: '10.2014'
+  to: ongoing
+  images:
+  - text: ~
+    url: tu_logo.png
+  items:
+  - text: Throughout the course of my Bachelor, and now also Master studies in Computer Science at TU Berlin, I have progressively focused on data engineering and web development. Both theoretical and practical knowledge gained in areas of data warehouses and data mining as well as working with node.js and web frameworks were the most valuable technical skills built in that time.
+  - text: During my course of studies I worked or I am working primarily with: Java, Spring, Python, Numpy, Matplotlib, Flask, JavaScript, Express, Vue, Haskell, Docker, Kubernetes.
+- text: Personal Projects
+  from: '2016'
+  to: ongoing
+  images;
+  - text: 'Personal Projects'
+    url: ~
+  sections:
+  - text: My own, free time projects include the ones made just by me individually, either as a way of learning, exploration of an idea or to solve my or someone else’s problem as well as group undertakings, such a hackathon. Areas and technologies covered reach from data processing and exploration through website scrapers to scaling and managing microservice systems.
+  - text: In my side  projects I work with: Java, Python, Pandas, Selenium, TypeScript, Express, Nest, Vue, Docker, Kubernetes.
