@@ -1,0 +1,180 @@
+items:
+- text: Frontend
+  items:
+  - text: 'Concepts & Standards'
+    isAligned: true
+    items:
+    - text: Component Driven Development
+      proficiency: 3
+    - text: UI & UX
+      proficiency: 3
+    - text: Material Design
+      proficiency: 2
+    - text: Semantic Web
+      proficiency: 1
+    - text: ARIA
+      proficiency: 1
+    - text: Languages & Frameworks
+      isAligned: true
+      items:
+      - text: 'HTML, CSS, JS'
+        proficiency: 3
+      - text: SCSS
+        proficiency: 3
+      - text: TS
+        proficiency: 3
+      - text: Vue
+        proficiency: 3
+      - text: React
+        proficiency: 2
+    - text: Technologies & Tools
+      isAligned: true
+      items:
+      - text: Pug
+        proficiency: 3
+      - text: Jest
+        proficiency: 2
+      - text: Storybook
+        proficiency: 2
+      - text: Cypress
+        proficiency: 1
+      - text: Wordpress
+        proficiency: 2
+- text: Backend
+  items:
+  - text: Concepts & Standards
+    isAligned: true
+    items:
+    - text: Domain Driven Design
+      proficiency: 2
+    - text: Event Driven Design
+      proficiency: 2
+    - text: CQRS
+      proficiency: 1
+    - text: API Design
+      proficiency: 3
+    - text: REST
+      proficiency: 3
+    - text: Authentication & Authorization
+      proficiency: 1
+    - text: Languages & Frameworks
+      isAligned: true
+      items:
+      - text: Python
+        proficiency: 2
+      - text: Python/Flask
+        proficiency: 2
+      - text: Java
+        proficiency: 2
+      - text: Java/Spring
+        proficiency: 2
+      - text: JS/Express
+        proficiency: 2
+      - text: JS/Nest
+        proficiency: 1
+    - text: Technologies & Tools
+      isAligned: true
+      items:
+      - text: Firebase
+        proficiency: 3
+- text: Data
+  items:
+  - text: Concepts & Standards
+    isAligned: true
+    items:
+    - text: Statistics & probability
+      proficiency: 2
+    - text: Database paradigms
+      proficiency: 3
+    - text: Data warehousing
+      proficiency: 3
+    - text: Data analysis & visualization
+      proficiency: 2
+    - text: Time series processing
+      proficiency: 2
+  - text: Languages & Frameworks
+    isAligned: true
+    items:
+    - text: SQL
+      proficiency: 3
+    - text: GraphQL
+      proficiency: 1
+  - text: Technologies & Tools
+    isAligned: true
+    items:
+    - text: PostgreSQL
+      proficiency: 1
+    - text: MySQL
+      proficiency: 1
+    - text: MongoDB
+      proficiency: 2
+    - text: Elasticsearch
+      proficiency: 2
+    - text: Grafana
+      proficiency: 3
+- text: Blockchain
+  items:
+    - text: Concepts & Standards
+      items:
+      - text: Blockchain architecture
+        proficiency: 2
+      - text: Blockchain security & privacy
+        proficiency: 1
+      - text: Bitcoin
+        proficiency: 2
+      - text: Ethereum
+        proficiency: 2
+    - text: Languages & Frameworks
+      items:
+      - text: Solidity
+        proficiency: 1
+      - text: Bitcoin Script
+        proficiency: 1
+    - text: Technologies & Tools
+      items:
+      - text: JS/web3.js
+        proficiency: 1
+      - text: Ganache
+        proficiency: 2
+      - text: Truffle
+        proficiency: 2
+- text: Cloud & DevOps
+  items:
+  - text: Technologies & Tools
+    items:
+    - text: CI/CD
+      proficiency: 1
+    - text: Github Actions
+      proficiency: 1
+    - text: Consul
+      proficiency: 1
+    - text: Docker
+      proficiency: 2
+    - text: Kubernetes
+      proficiency: 2
+    - text: Linux Arch & Debian
+      proficiency: 3
+    - text: MacOS
+      proficiency: 2
+    - text: Windows
+      proficiency: 3
+- text: Project Management
+  items:
+  - text: Concepts & Standards
+    items:
+    - text: Scrum
+      proficiency: 2
+    - text: Kanban
+      proficiency: 3
+    - text: Shape Up
+      proficiency: 3
+    - text: Feature Driven Development
+      proficiency: 3
+  - text: Technologies & Tools
+    items:
+    - text: Atlassian
+      proficiency: 2
+    - text: Git
+      proficiency: 3
+    - text: Latex
+      proficiency: 3
