@@ -57,26 +57,26 @@ items:
       proficiency: 3
     - text: Authentication & Authorization
       proficiency: 1
-    - text: Languages & Frameworks
-      isAligned: true
-      items:
-      - text: Python
-        proficiency: 2
-      - text: Python/Flask
-        proficiency: 2
-      - text: Java
-        proficiency: 2
-      - text: Java/Spring
-        proficiency: 2
-      - text: JS/Express
-        proficiency: 2
-      - text: JS/Nest
-        proficiency: 1
-    - text: Technologies & Tools
-      isAligned: true
-      items:
-      - text: Firebase
-        proficiency: 3
+  - text: Languages & Frameworks
+    isAligned: true
+    items:
+    - text: Python
+      proficiency: 2
+    - text: Python/Flask
+      proficiency: 2
+    - text: Java
+      proficiency: 2
+    - text: Java/Spring
+      proficiency: 2
+    - text: JS/Express
+      proficiency: 2
+    - text: JS/Nest
+      proficiency: 1
+  - text: Technologies & Tools
+    isAligned: true
+    items:
+    - text: Firebase
+      proficiency: 3
 - text: Data
   items:
   - text: Concepts & Standards
