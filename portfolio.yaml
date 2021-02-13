@@ -1,7 +1,7 @@
 items:
 - text: Construction Logistics App Ecosystem
-  from: 12.2018
-  to: 12.2020
+  from: '12.2018'
+  to: '12.2020'
   images:
   - text: ~
     url: 'kamioni.png'
@@ -25,7 +25,7 @@ items:
   items:
   - text: Develop a room rental platform providing LGBTQ+ people facing challenges in finding accomodation due to their sexual identity with safe spaces from friendly host.
   - text: Collaborate with a remote team of 7 people.
-  links
+  links:
    - text: ~
      url: https://github.com/SafeSpace-Berlin/SafeSpace
   stack: [ JavaScript, React, Express, MongoDB, AWS Elastic Beanstalk, Trello ]
@@ -67,14 +67,14 @@ items:
     url: stream_monitoring.png
   items:
   - text: Build a distributed, scalable metrics collection and visualization solution to monitor quality of video streaming service and to support decision making.
-  - text Utilize DASH.js for adaptive bitrate streaming and Common Media Client Data for metrics collection
+  - text: Utilize DASH.js for adaptive bitrate streaming and Common Media Client Data for metrics collection
   - text: Design the data model and dasboard UI
   - text: Deploy the solution on a Kubernetes cluster
   links: 
   - text: ~
     url: ~
-  stack: [ Java, Spring, Dash.js, ElasticSearch, Grafana, Docker, Kubernetes
-- text: Non-profit Vet Project Websl: ite
+  stack: [ Java, Spring, Dash.js, ElasticSearch, Grafana, Docker, Kubernetes ]
+- text: Non-profit Vet Project Website
   images:
   - text: ~
     url: piesbezstrachu.png
